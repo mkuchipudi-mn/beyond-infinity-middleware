@@ -1,0 +1,31 @@
+{
+  "moduleName": "admin",
+  "orgFilter": {
+    "onlyOrgSearch": false,
+    "orgList": [],
+    "directOrgAssociation": true
+  },
+  "startRowIndex": 1,
+  "searchName": "Configuration",
+  "selectList": [
+    "Pk",
+    "MgrId",
+    "Name"
+  ],
+  "sortTermList": [
+    {
+      "fullName": "Pk",
+      "descending": true
+    }
+  ],
+  "resultLimit": 11,
+  "searchTermList": [
+    {
+      "operator": "eq",
+      "attribute": {
+        "name": "Name",
+        "value": "com.modeln.Log.logMgrInitXml"
+      }
+    }
+  ]
+}

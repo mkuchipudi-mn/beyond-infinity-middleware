@@ -1,0 +1,118 @@
+{
+  "data": [
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34944",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34944
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"STDERR\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"AUDITING\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\"},{\"outputs\":\"STDERR\",\"level\":\"WARNING\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\"}],\"SET\":[{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.util\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.validation2\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.intg.channel.loader\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.util\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.dw.sales\"}]}}}",
+        "type": "STRING"
+      }
+    ],
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34943",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34943
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"STDERR\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"AUDITING\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\"}],\"SET\":[{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.util\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.validation2\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.intg.channel.loader\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.util\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.dw.sales\"}]}}}",
+        "type": "STRING"
+      }
+    ],
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34351",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34351
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\"},{\"outputs\":\"FILE\",\"level\":\"AUDITING\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"}]}}}",
+        "type": "STRING"
+      }
+    ],
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34350",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34350
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"STDERR\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"AUDITING\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\"}],\"SET\":[{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.bp.util\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.validation2\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.intg.channel.loader\"}]}}}",
+        "type": "STRING"
+      }
+    ],
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34134",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34134
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\"},{\"outputs\":\"FILE\",\"level\":\"TIMING\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"TERSE\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.script.test.testLog\"},{\"outputs\":\"FILE\",\"level\":\"VERBOSE\",\"category\":\"com.modeln.infr.script.test.CMnExprLibraryTest\"}]}}}",
+        "type": "STRING"
+      }
+    ],
+    [
+      {
+        "name": "objectIdentifier",
+        "value": {
+          "uniqueObjIdString": "53534-34032",
+          "mgrId": 53534,
+          "objectType": "ConfigurationValue",
+          "verNum": 0,
+          "dateUpdated": null,
+          "pk": 34032
+        },
+        "type": null
+      },
+      {
+        "name": "Value",
+        "value": "{\"ClobValue\":{\"LogMgrInit\":{\"ADD\":[{\"outputs\":\"STDERR\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"ERROR\"},{\"outputs\":\"FILE\",\"level\":\"WARNING\"}]}}}",
+        "type": "STRING"
+      }
+    ]
+  ]
+}

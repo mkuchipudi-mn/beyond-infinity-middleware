@@ -1,0 +1,24 @@
+{
+  "moduleName": "sales1",
+  "orgFilter": {
+    "onlyOrgSearch": false,
+    "orgList": [],
+    "directOrgAssociation": true
+  },
+  "startRowIndex": 1,
+  "searchName": "IndirectSaleOpen",
+  "selectList": [
+    "Pk",
+    "MgrId",
+    "NodeName",
+    "NodeAddress"
+  ],
+  "sortTermList": [
+    {
+      "fullName": "Pk",
+      "descending": true
+    }
+  ],
+  "resultLimit": 11,
+  "searchTermList": []
+}

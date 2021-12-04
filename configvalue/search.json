@@ -1,0 +1,32 @@
+{
+  "moduleName": "admin",
+  "orgFilter": {
+    "onlyOrgSearch": false,
+    "orgList": [],
+    "directOrgAssociation": true
+  },
+  "startRowIndex": 1,
+  "searchName": "ConfigurationValue",
+  "selectList": [
+    "Pk",
+    "MgrId",
+    "Value"
+  ],
+  "sortTermList": [
+    {
+      "fullName": "Pk",
+      "descending": true
+    }
+  ],
+  "resultLimit": 11,
+  "searchTermList": [
+    {
+      "operator": "eq",
+      "attribute": {
+        "name": "ValueFK",
+        "type" : "Long",
+        "value": 33392
+      }
+    }
+  ]
+}

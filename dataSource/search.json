@@ -1,0 +1,11 @@
+{
+  "dataSourceName": "test",
+  "dataSourceSubType":"xa",
+  "username": "test",
+  "password": "test2",
+  "url": "abc@test",
+  "jndiName": "java:/jboss1234",
+  "driverName" : "h2",
+  "maxPool" : 20,
+  "minPool" : 1
+}
