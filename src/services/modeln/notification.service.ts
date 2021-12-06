@@ -18,7 +18,7 @@ class NotificationService {
     const { body } = req;
     const cookie = cookieService.getCookie();
     console.log(cookie)
-    return await this.searchService.search(cookie, searchRequest);
+    return await this.searchService.search(cookie, body);
   }
 }
 

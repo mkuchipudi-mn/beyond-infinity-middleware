@@ -1,11 +1,14 @@
 import fetch from 'node-fetch';
 
 
-var baseUrl = 'http://mnipdmkuchipudi.modeln.com:5525/modeln/rest/';
+var baseUrl = 'http://mnipdnaresh.modeln.com:8081/rest';
+var notifUrl = '/data/NotifMsg/search';
+
 
 class SearchService {
   public async search(cookie: string, searchRequest: any) {
-    return fetch(baseUrl + 'data/IndirectSaleOpen/search', {
+  
+    return fetch(baseUrl +notifUrl, {
       method: 'post',
       body: JSON.stringify(searchRequest),
       headers: { 'Content-Type': 'application/json', cookie },
