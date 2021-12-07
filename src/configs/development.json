@@ -1,4 +1,5 @@
 {
     "env": "development",
-    "secretKey": "secretKey"
+    "secretKey": "secretKey",
+    "serviceUrl" : "http://mnipdnaresh.modeln.com:8081/rest"
 }

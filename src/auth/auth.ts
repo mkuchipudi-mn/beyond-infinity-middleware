@@ -1,10 +1,11 @@
 import fetch from 'node-fetch';
+import config from 'config';
 
-var baseUrl = 'http://mnipdmkuchipudi.modeln.com:5525/modeln/rest/';
 var authUrl ="authenticate/session/login"
 //const body = {"username" : "Administrator","password" : "Administrator"}
 
-const getAuth = async (body : any) => {
+const getAuth = async (body: any) => {
+  const baseUrl = config.get('serviceUrl');
   return fetch(baseUrl + authUrl, {
     method: "post",
     body: JSON.stringify(body),

@@ -74,7 +74,8 @@ class App {
           description: 'Example docs',
         },
       },
-      apis: ['swagger.yaml'],
+      //apis: ['swagger.yaml'],
+      apis: ['src/controllers/modeln/*.ts'],
     };
 
     const specs = swaggerJSDoc(options);

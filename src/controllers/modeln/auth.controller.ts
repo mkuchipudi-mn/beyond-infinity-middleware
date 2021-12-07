@@ -7,6 +7,7 @@ class AuthController {
   public authService = new AuthService();
 
 
+  
   public logIn = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
     try {
       const userData: LoginUserDto = req.body;
