@@ -15,7 +15,7 @@ class NotificationService {
   public async search(req: Request, res: Response): Promise<any> {
     const { body } = req;
     const cookie = cookieService.getCookie();
-    return await this.searchService.search(cookie, '/data/NotifMsg/search', body);
+    return await this.searchService.search(cookie, 'data/NotifMsg/search', body);
   }
 }
 
