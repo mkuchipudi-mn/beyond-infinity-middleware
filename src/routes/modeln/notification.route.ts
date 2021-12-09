@@ -14,6 +14,7 @@ class NotificationRoute implements Route {
   private initializeRoutes() {
     console.log("initializeRoutes in modeln");
     this.router.post(`${this.path}search`, this.notificationController.search);
+    this.router.put(`${this.path}`, this.notificationController.unread);
   }
 }
 

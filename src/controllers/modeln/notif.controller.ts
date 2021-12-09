@@ -18,6 +18,19 @@ class NotificationController {
       next(error);
     }
   };
+
+
+  public unread = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
+    try {
+      const response = await this.notificationService.unread(req,res);
+
+      //res.setHeader('Set-Cookie', [cookie]);
+      res.status(200).json(response);
+    } catch (error) {
+      next(error);
+    }
+  };
+
 }
 
 export default NotificationController;
