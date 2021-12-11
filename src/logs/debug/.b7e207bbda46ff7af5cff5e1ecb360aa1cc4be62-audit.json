@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\.b7e207bbda46ff7af5cff5e1ecb360aa1cc4be62-audit.json",
+    "files": [
+        {
+            "date": 1639183020910,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-11.log",
+            "hash": "74a11858251471ba0e427b68094b81af"
+        }
+    ]
+}

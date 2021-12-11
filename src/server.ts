@@ -9,7 +9,8 @@ import validateEnv from '@utils/validateEnv';
 import ModelnAuthRoute from '@routes/modeln/auth.route';
 import NotificationRoute from '@routes/modeln/notification.route';
 import SearchCardsRoute from '@routes/modeln/searchcards.route';
-import ClaimRoute from './routes/modeln/claims.route';
+import ClaimRoute from '@routes/modeln/claims.route';
+import AprovalRoute from '@routes/modeln/approval.route';
 
 validateEnv();
 
@@ -21,6 +22,7 @@ const app = new App([
   new NotificationRoute(),
   new SearchCardsRoute(),
   new ClaimRoute(),
+  new AprovalRoute(),
 ]);
 
 app.listen();
