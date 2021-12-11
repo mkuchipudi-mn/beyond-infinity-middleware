@@ -12,7 +12,7 @@ class ApprovalServiceService {
     const { body } = req;
     const id = req.params.id
     const cookie = cookieService.getCookie();
-    return await this.searchService.search(cookie, `/approval/${id}`, body);
+    return await this.searchService.search(cookie, `approval/${id}`, body);
   }
 }
 
