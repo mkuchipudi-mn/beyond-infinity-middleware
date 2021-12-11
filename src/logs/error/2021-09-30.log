@@ -1,2 +1,0 @@
-2021-09-30 17:56:46 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
-2021-09-30 17:57:25 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
