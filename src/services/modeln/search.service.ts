@@ -2,9 +2,9 @@ import fetch from 'node-fetch';
 import config from 'config';
 
 class SearchService {
-  public async search(cookie: string, notifUrl: string, searchRequest: any) {
+  public async search(cookie: string, path: string, searchRequest: any) {
     const baseUrl = config.get('serviceUrl');
-    const url : string = baseUrl + notifUrl;
+    const url : string = baseUrl + path;
     console.log(url)
     return fetch(url, {
       method: 'post',

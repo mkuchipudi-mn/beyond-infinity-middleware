@@ -1,0 +1,18 @@
+2021-09-28 20:03:59 info: [0mGET / [32m200[0m 20.693 ms - 2[0m
+2021-09-28 20:04:17 info: [0mGET /users [32m200[0m 109.470 ms - 460[0m
+2021-09-28 20:04:17 info: [0mGET /users/1 [32m200[0m 2.573 ms - 135[0m
+2021-09-28 20:04:19 info: [0mPOST /signup [32m201[0m 1876.917 ms - 135[0m
+2021-09-28 20:04:19 info: [0mPOST /users [32m201[0m 1037.123 ms - 136[0m
+2021-09-28 20:04:19 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-09-28 20:04:19 info: [0mPOST /login [33m409[0m 33.885 ms - 51[0m
+2021-09-28 20:04:19 info: [0mPUT /users/1 [32m200[0m 406.546 ms - 461[0m
+2021-09-28 20:04:20 info: [0mDELETE /users/1 [32m200[0m 2.294 ms - 353[0m
+2021-09-28 20:05:20 info: [0mGET / [32m200[0m 23.541 ms - 2[0m
+2021-09-28 20:05:34 info: [0mGET /users [32m200[0m 37.395 ms - 460[0m
+2021-09-28 20:05:34 info: [0mGET /users/1 [32m200[0m 5.995 ms - 135[0m
+2021-09-28 20:05:34 info: [0mPOST /users [32m201[0m 382.434 ms - 136[0m
+2021-09-28 20:05:35 info: [0mPOST /signup [32m201[0m 451.829 ms - 135[0m
+2021-09-28 20:05:35 info: [0mPUT /users/1 [32m200[0m 415.804 ms - 461[0m
+2021-09-28 20:05:35 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-09-28 20:05:35 info: [0mPOST /login [33m409[0m 8.156 ms - 51[0m
+2021-09-28 20:05:35 info: [0mDELETE /users/1 [32m200[0m 2.190 ms - 353[0m

@@ -1,0 +1,84 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\.b7e207bbda46ff7af5cff5e1ecb360aa1cc4be62-audit.json",
+    "files": [
+        {
+            "date": 1631833076124,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-09-17.log",
+            "hash": "fe977c9026c5970b14078157cf4e27ec"
+        },
+        {
+            "date": 1632839638493,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-09-28.log",
+            "hash": "c8dc9b48806feed113ef06dbe569952f"
+        },
+        {
+            "date": 1632872437427,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-09-29.log",
+            "hash": "1a9704fe0172a34b6eaa24c5d416d7c6"
+        },
+        {
+            "date": 1633004664342,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-09-30.log",
+            "hash": "1d599595229fe7196793d241671e78cc"
+        },
+        {
+            "date": 1633098453657,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-10-01.log",
+            "hash": "aa5aeed007773ae8a296092cf753c270"
+        },
+        {
+            "date": 1633297575878,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-10-04.log",
+            "hash": "c8feb456a4ca26b60dc281dfcdb3d182"
+        },
+        {
+            "date": 1633379521550,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-10-05.log",
+            "hash": "46a47ed9b3f6ee2fdd37dfc5afef6c30"
+        },
+        {
+            "date": 1637922856922,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-11-26.log",
+            "hash": "0914d7a25a42e37fce307e358f5d11c1"
+        },
+        {
+            "date": 1638612395021,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-04.log",
+            "hash": "ba1f97da9dc4f32bd0add35138cd221d"
+        },
+        {
+            "date": 1638648636894,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-05.log",
+            "hash": "30d0f65c58b3a44878fb9a67677580bf"
+        },
+        {
+            "date": 1638772766609,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-06.log",
+            "hash": "a28299c52b1f4111abfd267818d7d943"
+        },
+        {
+            "date": 1638859855698,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-07.log",
+            "hash": "e4e3126c9b65e694c919ef8fa7eb44cc"
+        },
+        {
+            "date": 1639065595292,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-09.log",
+            "hash": "cc2cbb6b1f72c3eca0ee2263492a0321"
+        },
+        {
+            "date": 1639079641942,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-10.log",
+            "hash": "4ecabf2e10726e6d8ea577241bd529d8"
+        },
+        {
+            "date": 1639180400710,
+            "name": "C:\\KMK\\KS\\modeln\\modn-admin-console\\admin-server\\src\\logs\\debug\\2021-12-11.log",
+            "hash": "5e39d8569789c71123600b5ea1013694"
+        }
+    ]
+}

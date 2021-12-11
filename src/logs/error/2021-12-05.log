@@ -1,0 +1,198 @@
+2021-12-05 01:41:25 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:41:51 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:42:46 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:43:00 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:44:19 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:44:36 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:45:13 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:45:44 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:46:19 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:46:39 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:51:58 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:51:58 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:53:03 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:54:17 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:54:29 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:56:25 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:56:35 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:58:38 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 01:58:41 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 01:59:06 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1306:16)
+    at listenInCluster (net.js:1354:12)
+    at Server.listen (net.js:1442:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2021-12-05 02:00:32 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:02:50 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:05:05 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:06:32 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:08:10 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:08:55 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:10:27 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:11:02 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:12:24 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:13:24 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:13:55 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:15:21 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:15:34 error: [POST] /modeln/rest/authenticate/session/login >> StatusCode:: 500, Message:: Cannot read property 'setCookie' of undefined
+2021-12-05 02:16:52 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:18:13 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:18:13 error: [POST] /modeln/rest/authenticate/session/login >> StatusCode:: 500, Message:: Cannot read property 'setCookie' of undefined
+2021-12-05 02:20:42 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:21:06 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:22:19 error: [POST] /modeln/rest/authenticate/session/login >> StatusCode:: 500, Message:: Cannot read property 'setCookie' of undefined
+2021-12-05 02:24:04 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:27:43 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:28:52 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:29:24 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:38:12 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:39:59 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:41:50 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:43:56 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:43:58 error: [POST] /modeln/rest/NotifMsg/search >> StatusCode:: 500, Message:: fetch is not defined
+2021-12-05 02:45:40 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 02:46:41 error: [POST] /modeln/rest/NotifMsg/search >> StatusCode:: 500, Message:: fetch is not defined
+2021-12-05 21:03:04 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 21:18:08 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-05 21:19:05 error: uncaughtException: Cannot read property 'indexOf' of null
+TypeError: Cannot read property 'indexOf' of null
+    at Object.parse (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\yaml\dist\parse-3997f544.js:1874:11)
+    at Object.parseDocument (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\yaml\dist\index.js:41:24)
+    at build (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\swagger-jsdoc\src\specification.js:199:31)
+    at Object.module.exports [as default] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\swagger-jsdoc\src\lib.js:29:10)
+    at App.initializeSwagger (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:81:31)
+    at new App (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:28:10)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-12-05 21:22:32 error: uncaughtException: Cannot read property 'indexOf' of null
+TypeError: Cannot read property 'indexOf' of null
+    at Object.parse (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\yaml\dist\parse-3997f544.js:1874:11)
+    at Object.parseDocument (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\yaml\dist\index.js:41:24)
+    at build (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\swagger-jsdoc\src\specification.js:199:31)
+    at Object.module.exports [as default] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\swagger-jsdoc\src\lib.js:29:10)
+    at App.initializeSwagger (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:81:31)
+    at new App (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:28:10)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:15:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-12-05 21:26:31 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found

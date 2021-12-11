@@ -1,0 +1,1 @@
+2021-12-11 05:32:43 error: [POST] /modeln/rest/data/DistRebatesClaim/1224 >> StatusCode:: 500, Message:: Cannot read property 'searchCards' of undefined

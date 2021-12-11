@@ -9,11 +9,18 @@ import validateEnv from '@utils/validateEnv';
 import ModelnAuthRoute from '@routes/modeln/auth.route';
 import NotificationRoute from '@routes/modeln/notification.route';
 import SearchCardsRoute from '@routes/modeln/searchcards.route';
-
+import ClaimRoute from './routes/modeln/claims.route';
 
 validateEnv();
 
-const app = new App([new IndexRoute(), new UsersRoute(), new AuthRoute(),
-new ModelnAuthRoute(), new NotificationRoute(), new SearchCardsRoute()]);
+const app = new App([
+  new IndexRoute(),
+  new UsersRoute(),
+  new AuthRoute(),
+  new ModelnAuthRoute(),
+  new NotificationRoute(),
+  new SearchCardsRoute(),
+  new ClaimRoute(),
+]);
 
 app.listen();

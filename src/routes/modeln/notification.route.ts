@@ -3,7 +3,7 @@ import NotificationController from '@controllers/modeln/notif.controller';
 import Route from '@interfaces/routes.interface';
 
 class NotificationRoute implements Route {
-  public path = '/modeln/rest/NotifMsg/';
+  public path = '/modeln/rest/data/NotifMsg/';
   public router = Router();
   public notificationController = new NotificationController();
 

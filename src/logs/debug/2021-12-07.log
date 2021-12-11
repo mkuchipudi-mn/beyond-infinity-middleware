@@ -1,0 +1,39 @@
+2021-12-07 12:21:21 info: [0mGET / [32m200[0m 69.855 ms - 2[0m
+2021-12-07 12:21:35 info: [0mGET /users [32m200[0m 25.038 ms - 460[0m
+2021-12-07 12:21:35 info: [0mGET /users/1 [32m200[0m 2.459 ms - 135[0m
+2021-12-07 12:21:36 info: [0mPOST /signup [32m201[0m 1180.947 ms - 135[0m
+2021-12-07 12:21:36 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-07 12:21:36 info: [0mPOST /login [33m409[0m 8.167 ms - 51[0m
+2021-12-07 12:21:36 info: [0mPOST /users [32m201[0m 900.970 ms - 136[0m
+2021-12-07 12:21:36 info: [0mPUT /users/1 [32m200[0m 211.951 ms - 461[0m
+2021-12-07 12:21:36 info: [0mDELETE /users/1 [32m200[0m 5.102 ms - 353[0m
+2021-12-07 12:21:36 info: =================================
+2021-12-07 12:21:36 info: ======= ENV: development =======
+2021-12-07 12:21:36 info: 🚀 App listening on the port 3006
+2021-12-07 12:21:36 info: =================================
+2021-12-07 12:22:35 info: =================================
+2021-12-07 12:22:35 info: ======= ENV: development =======
+2021-12-07 12:22:35 info: 🚀 App listening on the port 3006
+2021-12-07 12:22:35 info: =================================
+2021-12-07 12:23:05 info: [0mGET / [32m200[0m 23.432 ms - 2[0m
+2021-12-07 12:23:08 info: [0mGET /users [32m200[0m 18.466 ms - 460[0m
+2021-12-07 12:23:09 info: [0mGET /users/1 [32m200[0m 2.582 ms - 135[0m
+2021-12-07 12:23:09 info: [0mPOST /users [32m201[0m 476.918 ms - 136[0m
+2021-12-07 12:23:09 info: [0mPOST /signup [32m201[0m 430.267 ms - 135[0m
+2021-12-07 12:23:09 info: [0mPUT /users/1 [32m200[0m 173.272 ms - 461[0m
+2021-12-07 12:23:09 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-07 12:23:09 info: [0mPOST /login [33m409[0m 11.612 ms - 51[0m
+2021-12-07 12:23:09 info: [0mDELETE /users/1 [32m200[0m 2.031 ms - 353[0m
+2021-12-07 12:23:40 info: =================================
+2021-12-07 12:23:40 info: ======= ENV: development =======
+2021-12-07 12:23:40 info: 🚀 App listening on the port 3006
+2021-12-07 12:23:40 info: =================================
+2021-12-07 12:23:46 info: [0mGET / [32m200[0m 15.486 ms - 2[0m
+2021-12-07 12:23:48 info: [0mGET /users [32m200[0m 16.236 ms - 460[0m
+2021-12-07 12:23:48 info: [0mGET /users/1 [32m200[0m 2.763 ms - 135[0m
+2021-12-07 12:23:48 info: [0mPOST /users [32m201[0m 218.909 ms - 136[0m
+2021-12-07 12:23:48 info: [0mPOST /signup [32m201[0m 239.731 ms - 135[0m
+2021-12-07 12:23:48 info: [0mPUT /users/1 [32m200[0m 151.255 ms - 461[0m
+2021-12-07 12:23:48 info: [0mDELETE /users/1 [32m200[0m 1.727 ms - 353[0m
+2021-12-07 12:23:48 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-12-07 12:23:48 info: [0mPOST /login [33m409[0m 7.576 ms - 51[0m
