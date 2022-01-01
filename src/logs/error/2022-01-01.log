@@ -1,0 +1,36 @@
+2022-01-01 22:26:54 error: uncaughtException: listen EADDRINUSE: address already in use :::3006
+Error: listen EADDRINUSE: address already in use :::3006
+    at Server.setupListenHandle [as _listen2] (net.js:1320:16)
+    at listenInCluster (net.js:1368:12)
+    at Server.listen (net.js:1454:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:30:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2022-01-01 22:29:07 error: uncaughtException: listen EADDRINUSE: address already in use :::3006
+Error: listen EADDRINUSE: address already in use :::3006
+    at Server.setupListenHandle [as _listen2] (net.js:1320:16)
+    at listenInCluster (net.js:1368:12)
+    at Server.listen (net.js:1454:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:30:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)
+2022-01-01 22:29:18 error: uncaughtException: listen EADDRINUSE: address already in use :::3006
+Error: listen EADDRINUSE: address already in use :::3006
+    at Server.setupListenHandle [as _listen2] (net.js:1320:16)
+    at listenInCluster (net.js:1368:12)
+    at Server.listen (net.js:1454:7)
+    at Function.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\app.ts:33:14)
+    at Object.<anonymous> (C:\KMK\KS\modeln\modn-admin-console\admin-server\src\server.ts:30:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\KMK\KS\modeln\modn-admin-console\admin-server\node_modules\ts-node\src\index.ts:1059:12)

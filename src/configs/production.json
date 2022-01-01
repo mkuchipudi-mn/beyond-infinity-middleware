@@ -1,5 +1,5 @@
 {
     "env": "production",
     "secretKey": "secretKey",
-    "serviceUrl" : "http://mnipdnaresh.modeln.com:8081/rest/"
+    "serviceUrl" : "http://mnipdmkuchipudi.modeln.com:5525/modeln/rest/"
 }

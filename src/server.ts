@@ -11,6 +11,7 @@ import NotificationRoute from '@routes/modeln/notification.route';
 import SearchCardsRoute from '@routes/modeln/searchcards.route';
 import ClaimRoute from '@routes/modeln/claims.route';
 import AprovalRoute from '@routes/modeln/approval.route';
+import SearchRoute from '@routes/modeln/search.route';
 
 validateEnv();
 
@@ -23,6 +24,7 @@ const app = new App([
   new SearchCardsRoute(),
   new ClaimRoute(),
   new AprovalRoute(),
+  new SearchRoute()
 ]);
 
 app.listen();

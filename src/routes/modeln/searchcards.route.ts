@@ -12,7 +12,7 @@ class SearchCardsRoute implements Route {
   }
 
   private initializeRoutes() {
-    this.router.post(`${this.path}search`, this.searchCardController.searchCards);
+    this.router.post(`${this.path}search1`, this.searchCardController.searchCards);
   }
 }
 

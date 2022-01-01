@@ -1,0 +1,33 @@
+2022-01-01 22:22:45 info: =================================
+2022-01-01 22:22:45 info: ======= ENV: development =======
+2022-01-01 22:22:45 info: 🚀 App listening on the port 3006
+2022-01-01 22:22:45 info: =================================
+2022-01-01 22:23:06 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 3485.235 ms - 272[0m
+2022-01-01 22:23:38 info: [0mPOST /rest/data/RbtPmtSaleOpen/search [33m404[0m 2.975 ms - 171[0m
+2022-01-01 22:24:54 info: =================================
+2022-01-01 22:24:54 info: ======= ENV: development =======
+2022-01-01 22:24:54 info: 🚀 App listening on the port 3006
+2022-01-01 22:24:54 info: =================================
+2022-01-01 22:25:16 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 3323.439 ms - 272[0m
+2022-01-01 22:25:21 info: [0mPOST /rest/data/RbtPmtSaleOpen/search [33m404[0m 4.682 ms - 171[0m
+2022-01-01 22:25:44 info: [0mPOST /modeln/rest/data/RbtPmtSaleOpen/search [32m200[0m 185.838 ms - 199[0m
+2022-01-01 22:25:53 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 2947.283 ms - 272[0m
+2022-01-01 22:25:55 info: [0mPOST /modeln/rest/data/RbtPmtSaleOpen/search [32m200[0m 189.184 ms - 199[0m
+2022-01-01 22:26:59 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 2990.266 ms - 272[0m
+2022-01-01 22:27:17 info: [0mPOST /modeln/rest/data/RbtPmtSaleOpen/search [32m200[0m 192.611 ms - 199[0m
+2022-01-01 22:30:37 info: =================================
+2022-01-01 22:30:37 info: ======= ENV: development =======
+2022-01-01 22:30:37 info: 🚀 App listening on the port 3006
+2022-01-01 22:30:37 info: =================================
+2022-01-01 22:30:49 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 3403.964 ms - 272[0m
+2022-01-01 22:30:49 info: [0mPOST /modeln/rest/data/RbtPmtSaleOpen/search [32m200[0m 188.578 ms - 198[0m
+2022-01-01 22:31:54 info: =================================
+2022-01-01 22:31:54 info: ======= ENV: development =======
+2022-01-01 22:31:54 info: 🚀 App listening on the port 3006
+2022-01-01 22:31:54 info: =================================
+2022-01-01 22:32:14 info: =================================
+2022-01-01 22:32:14 info: ======= ENV: development =======
+2022-01-01 22:32:14 info: 🚀 App listening on the port 3006
+2022-01-01 22:32:14 info: =================================
+2022-01-01 22:32:51 info: [0mPOST /modeln/rest/authenticate/session/login [32m200[0m 3091.981 ms - 272[0m
+2022-01-01 22:32:56 info: [0mPOST /modeln/rest/data/RbtPmtSaleOpen/search [32m200[0m 219.764 ms - 198[0m
