@@ -8,10 +8,11 @@ class SearchService {
     const url: string = baseUrl + path;
     const cookieData: string = cookie ||  cookieService.getCookie();
     console.log(url);
+    console.log(cookie);
     return fetch(url, {
       method: 'post',
       body: JSON.stringify(searchRequest),
-      headers: { 'Content-Type': 'application/json', cookieData },
+      headers: { 'Content-Type': 'application/json', cookie:cookieData },
     })
       .then((res) => res.json())
       .catch((err) => console.log(err));
